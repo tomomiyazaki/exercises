@@ -6,7 +6,7 @@ Pythonを用いた画像処理とディープラーニングを学びます．
 # 画像処理
 1. [Pythonの環境構築](./image_processing/1_build_environment.md)
 2. [Pythonの基礎練習](./image_processing/2_basics.md)
-3. [グレースケール変換](./image_processing/3_gray.html)
+3. [グレースケール変換](./image_processing/3_gray.md)
 4. [閾値処理](./image_processing/4_thresh.md)
 5. [表色系の変換](./image_processing/5_color_system.md)
 6. [（作成中）エッジ検出](./image_processing/)
