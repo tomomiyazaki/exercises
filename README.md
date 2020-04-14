@@ -8,7 +8,7 @@ Pythonを用いた画像処理とディープラーニングを学びます．
 2. [Pythonの基礎練習](./image_processing/2_basics.md)
 3. [グレースケール変換](./image_processing/3_gray.md)
 4. [閾値処理](./image_processing/4_thresh.md)
-5. [表色系の変換](./image_processing/)
+5. [表色系の変換](./image_processing/5_color_system.md)
 6. [（作成中）エッジ検出](./image_processing/)
 7. [（作成中）ノイズ除去](./image_processing/)
 8. [（作成中）色情報を用いた画像処理](./image_processing/)
