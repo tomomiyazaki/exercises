@@ -13,7 +13,7 @@ Pythonを用いた画像処理とディープラーニングを学びます．
 7. [ノイズ除去](./image_processing/7_noise.md)
 8. [色情報を用いた画像処理](./image_processing/8_color.md)
 9. [濃度値の補正](./image_processing/9_correct.md)
-10. [（作成中）拡大・縮小](./image_processing/)
+10. [拡大・縮小](./image_processing/10_resize.md)
 11. [（作成中）画像の幾何変換](./image_processing/)
 12. [（作成中）画像の修復](./image_processing/)
 
