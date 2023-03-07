@@ -10,6 +10,7 @@
 - よって，YIに多くの帯域を割り当てることで，効率的に信号を伝送できる
 
 ![YIQ表色系](./etc/color_system_fig1.png)
+
 図１．YIQ表色系．Y=0.5．https://en.wikipedia.org/wiki/YIQ
 
 #### 変換式
